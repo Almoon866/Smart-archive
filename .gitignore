@@ -1,0 +1,54 @@
+# البيئة الافتراضية
+venv/
+env/
+ENV/
+
+# ملفات Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# قاعدة البيانات
+*.db
+*.sqlite
+*.sqlite3
+
+# ملفات السجلات
+logs/
+*.log
+
+# الأرشيفات
+archive/
+
+# النسخ الاحتياطية
+backups/
+
+# فهارس البحث
+search_index/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# محررات
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# ملفات البيئة
+.env
+.env.local
+
+# ملفات التطوير
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,30 @@
+# واجهة المستخدم
+PyQt6>=6.5.0
+PyQt6-sip>=13.5.0
+
+# استخراج المحتوى
+PyMuPDF>=1.23.0
+python-docx>=1.0.0
+openpyxl>=3.1.0
+python-pptx>=0.6.21
+Pillow>=10.0.0
+
+# OCR
+paddleocr>=2.7.0.3
+paddlepaddle>=2.5.0
+
+# الذكاء الاصطناعي
+ollama>=0.2.0
+langdetect>=1.0.9
+
+# اكتشاف نوع الملف
+python-magic-bin>=0.4.14
+
+# البحث النصي
+Whoosh>=2.7.4
+
+# أدوات إضافية
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+Python-dotenv>=1.0.0
